@@ -1,0 +1,26 @@
+[
+	{
+		"id": 4,
+		"isbn": "978-0393058000",
+		"title": "harry poter",
+		"gender": "fictional detective",
+		"description": "Sherlock Holmes (/ˈʃɜːrlɒk ˈhoʊmz/) is a fictional detective created by British author Sir Arthur Conan Doyle. Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+		"author": "Arthur Conan Doyle",
+		"publish_year": 2006,
+		"cover_photo_url": "https://images-na.ssl-images-amazon.com/images/I/91hJe52QzjL.jpg",
+		"created_at": "2022-08-15T09:57:10.493Z",
+		"updated_at": "2022-08-15T09:57:10.493Z"
+	},
+	{
+		"id": 3,
+		"isbn": "978-0393058000",
+		"title": "Sherlock Holmes",
+		"gender": "fictional detective",
+		"description": "Sherlock Holmes (/ˈʃɜːrlɒk ˈhoʊmz/) is a fictional detective created by British author Sir Arthur Conan Doyle. Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+		"author": "Arthur Conan Doyle",
+		"publish_year": 2006,
+		"cover_photo_url": "https://images-na.ssl-images-amazon.com/images/I/91hJe52QzjL.jpg",
+		"created_at": "2022-08-15T11:01:51.979Z",
+		"updated_at": "2022-08-15T11:01:51.979Z"
+	}
+]
